@@ -1,0 +1,16 @@
+real valor_A
+real valor_B
+real valor_c
+escreva( "selecione um valor ")
+leia( valor_A)
+escreva("selecione outro valor")
+leia(valor_B)
+
+ valor_c = valor_A 
+ 
+ valor_A = valor_B
+
+ valor_B = valor_c
+
+
+escreva("o seu valor e "  ,valor_A   ,valor_B  )
