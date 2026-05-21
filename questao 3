@@ -1,0 +1,7 @@
+real horas , dias , idade 
+
+    escreva( "qual sua idade")
+    leia(idade)
+     dias = idade * 365
+     horas = dias * 24
+     escreva("seus dias de vida " , dias ,  "\n", " seus dias em horas " , horas )
