@@ -1,0 +1,7 @@
+ inteiro valor_a , valor_b , resultado 
+    escreva ("qual seu primeiro valor")
+    leia( valor_a )
+    escreva( " qual seu segundo valor ")
+    leia( valor_b )
+    resultado = (valor_a + valor_b) * (valor_a + valor_b)
+    escreva( "seu resultado e " , resultado )
